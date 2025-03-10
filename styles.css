@@ -1,1 +1,19 @@
-try3
+.countryNameLabel{
+    background-color: lightgreen;
+    color: black;
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+}
+
+#submit{
+    background-color: lightseagreen;
+    font-style: italic;
+    border-style: solid;
+    border-color: black;
+}
+
+#countryName{
+    border-style: solid;
+    border-color: black
+}
